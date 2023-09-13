@@ -16,10 +16,15 @@ body {
   padding: 2rem;
 
   box-sizing: border-box;
+}
 
-  border-style: double;
+section {
+  /* styling section element */
+  border-style: solid;
+  border-radius: 20%;
 }
 
 li {
+  /* styling listed items */
   list-style-type: none;
 }
