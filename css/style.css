@@ -1,4 +1,5 @@
 body {
+  /* styling body */
   background-color: #22f5d5;
 
   text-align: center;
@@ -11,6 +12,12 @@ body {
   margin: auto;
 
   max-width: 85ch;
+
+  padding: 2rem;
+
+  box-sizing: border-box;
+
+  border-style: double;
 }
 
 li {
