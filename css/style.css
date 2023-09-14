@@ -41,3 +41,11 @@ li {
   /* styling listed items */
   list-style-type: none;
 }
+
+input[type="submit"] {
+  /* styling submit button */
+  position: center;
+
+  width: 10em; 
+  height: 2em;
+}
