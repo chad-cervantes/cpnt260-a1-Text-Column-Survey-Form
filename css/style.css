@@ -4,8 +4,9 @@ body {
   
   text-align: center;
 
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
+  
   color: black;
 
   line-height: 1.6;
@@ -21,9 +22,19 @@ body {
 
 section {
   /* styling section element */
+  background-color: rgb(163, 116, 116);
+  
+  margin: 0px 10%;
+
+  padding: 2rem 5rem;
+
+  border-radius: 1rem;
   border-style: solid;
-  border-radius: 20%;
-  display: flexbox;
+
+  display: flex;
+  flex-direction: column;
+
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 li {
