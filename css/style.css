@@ -1,11 +1,12 @@
 body {
   /* styling body */
-  background-color: #22f5d5;
-
+  background-color: white;
+  
   text-align: center;
 
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
+  color: black;
 
   line-height: 1.6;
 
@@ -21,7 +22,8 @@ body {
 section {
   /* styling section element */
   border-style: solid;
-  border-radius: 20%; 
+  border-radius: 20%;
+  display: flexbox;
 }
 
 li {
