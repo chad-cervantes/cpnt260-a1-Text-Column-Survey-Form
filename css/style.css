@@ -32,8 +32,9 @@ section {
   border-style: solid;
 
   display: flex;
+  
   flex-direction: column;
-
+  
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -42,10 +43,20 @@ li {
   list-style-type: none;
 }
 
+select[id="dropdown"] {
+  /* styling dropdown section */
+  width: 10em;
+  
+  height: 2em;
+
+  margin:auto;
+}
+
 input[type="submit"] {
   /* styling submit button */
-  position: center;
+  margin: auto;
 
   width: 10em; 
+  
   height: 2em;
 }
