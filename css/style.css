@@ -21,7 +21,7 @@ body {
 section {
   /* styling section element */
   border-style: solid;
-  border-radius: 20%;
+  border-radius: 20%; 
 }
 
 li {
