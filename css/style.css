@@ -31,13 +31,9 @@ section {
   border-radius: 1rem;
   border-style: solid;
 
-  display: flex;
-
   flex-direction: column;
   
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-  text-align: justify;
 }
 
 h2 {
