@@ -71,7 +71,7 @@ h1 {
 
 h2 {
   /* styling heading 2 elements */
-  font-size: 29px;
+  font-size: clamp(1.5rem, 1.5vw, 1.5rem);
 
   color: orange;
 
