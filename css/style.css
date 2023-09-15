@@ -95,3 +95,12 @@ input[type="submit"] {
   
   height: 2em;
 }
+
+textarea {
+  /* styling text-area */
+  resize: none;
+  
+  height: auto;
+  
+  width: auto;
+}
