@@ -71,7 +71,7 @@ h1 {
 
 h2 {
   /* styling heading 2 elements */
-  font-size: 35px;
+  font-size: 30px;
 
   color: orange;
 
@@ -84,7 +84,7 @@ h2 {
 
 h3 {
   /* styling heading 3 elements */
-  font-size: 25px;
+  font-size: 20px;
 }
 
 ul {
