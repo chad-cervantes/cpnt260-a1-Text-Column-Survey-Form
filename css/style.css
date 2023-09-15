@@ -38,7 +38,7 @@ section {
   margin: 0;
 
   /* added padding */
-  padding: 2rem 4rem;
+  padding: 2rem 4rem ;
 
   /* added border properties */
   border-radius: 1rem;
@@ -68,6 +68,10 @@ h2 {
 h3 {
   /* styling heading 3 elements */
   font-size: 25px;
+}
+
+ul {
+  padding: 0;
 }
 
 li {
@@ -104,5 +108,14 @@ textarea {
   
   height: auto;
   
-  width: auto;
+  width: 100%;
+  max-width: 500px;
+
+  margin: auto;
+}
+
+.intro-image {
+  margin: auto;
+  display: block;
+  max-width: 100%;
 }
