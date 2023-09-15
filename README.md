@@ -1,5 +1,11 @@
 # cpnt260-a1-Text-Column-Survey-Form
-CPNT 260 ; Assignment 1 - Text Column;  Chad Cervantes; 
+CPNT 260
+
+Assignment 1 - Text Column
+  
+Author: Chad Cervantes
+
+GH page: [https://chad-cervantes.github.io/cpnt260-a1-Text-Column-Survey-Form/]
 
 ATTRIBUTIONS
 
