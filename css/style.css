@@ -74,6 +74,12 @@ h2 {
   font-size: 40px;
 
   color: orange;
+
+  margin: auto;
+
+  display: block;
+  
+  max-width: 100%;
 }
 
 h3 {
@@ -126,7 +132,11 @@ textarea {
 }
 
 .intro-image {
+  /* styling image */
+  
   margin: auto;
+  
   display: block;
+  
   max-width: 100%;
 }
