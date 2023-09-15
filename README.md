@@ -1,10 +1,7 @@
 # cpnt260-a1-Text-Column-Survey-Form
 CPNT 260 ; Assignment 1 - Text Column;  Chad Cervantes; 
 
-I copied the Google Font "Trirong"; the links are on lines 7-9 in the index.html file. Here's the link: 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Trirong:wght@100;400&display=swap" rel="stylesheet">
+I copied the Google Font "Trirong"; the links are on lines 7-9 in the index.html file. 
 
 I copied a link on the web. Its URL is [https://greatkitchenparty.com/ca/culinary-championships/]. It's on line 16 in the index.html file.
 
