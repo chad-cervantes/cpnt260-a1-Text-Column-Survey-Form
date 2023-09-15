@@ -6,6 +6,7 @@ body {
 
   font-family: Trirong, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
+  font-variant: small-caps slashed-zero;
   
   line-height: 1.6;
 
@@ -20,17 +21,24 @@ body {
 
 section {
   /* styling section element */
+
+  /* added background0color */
   background-color: rgb(163, 116, 116);
   
+  /* added margin */
   margin: 0;
 
+  /* added padding */
   padding: 2rem 4rem;
 
+  /* added border properties */
   border-radius: 1rem;
   border-style: solid;
 
+  /* added flex */
   flex-direction: column;
   
+  /*added font-family */
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
